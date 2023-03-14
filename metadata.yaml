@@ -1,5 +1,8 @@
 _repo: A-West-Pointer-with-the-Boers-b-personal-narrative-of-Colonel-J-Y-F-Blake-commander-of-the-Ir__70110
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70110-h/images/cover.jpg
 creator:
   author:
     agent_name: Blake, John Y. Fillmore
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55601
     wikipedia: https://en.wikipedia.org/wiki/John_Blake_(soldier)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70110#A-West-Pointer-with-the-Boers-b-personal-narrative-of-Colonel-J-Y-F-Blake-commander-of-the-Ir_
 gutenberg_issued: '2023-02-23'
 identifiers:
   gutenberg: '70110'
